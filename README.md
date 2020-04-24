@@ -18,7 +18,16 @@ This project is one famous project in Kaggle. We approched it from two different
 
 8 - After pasting the code to the Kernel, you can click play on kernel to compile & run the project.
 
-Thank you for reading.
+9 - You should see the following output on Kaggle Console.
+
+"Packages are loaded...
+Program is started to running...
+Reading titanic data files[train.csv, test.csv, gender.submission.csv]...
+Files are loaded successfully[train.csv, test.csv, gender.submission.csv]...
+Training accuracy:  0.8731762065095399
+Output file has been saved as: submission.csv"
+
+THANK YOU for reading.
 
 
 
