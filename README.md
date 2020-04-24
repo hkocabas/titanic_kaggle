@@ -14,7 +14,9 @@ This project is one famous project in Kaggle. We approched it from two different
 
 6 - Once you create the Kernel, Kaggle is automatically place the necessary files[Train.csv, Test.csv, Gender_Submission.csv] files to the correct locations.
 
-7 - You can copy the python code that is shared in this Github account to compile & run the project.
+7 - You can copy the python code that is given in "project_code.py" file. 
+
+8 - After pasting the code to the Kernel, you can click play on kernel to compile & run the project.
 
 Thank you for reading.
 
